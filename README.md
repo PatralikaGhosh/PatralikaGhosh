@@ -1,5 +1,5 @@
 <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
-![Pompo the Cinephile Typing Fast](https://media.tenor.com/images/.../tenor.gif)
+![Pompo the Cinephile Typing Fast](https://tenor.com/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296)
 
 ## My Skill Set
 
