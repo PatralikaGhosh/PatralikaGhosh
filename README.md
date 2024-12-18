@@ -1,6 +1,6 @@
 <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
 
-<div class="tenor-gif-embed" data-postid="24296296" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296">Pompo The Cinephile Typing Fast GIF</a>from <a href="https://tenor.com/search/pompo+the+cinephile-gifs">Pompo The Cinephile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://tenor.com/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296" alt="Coder GIF" width="500">
 
 ## My Skill Set
 
