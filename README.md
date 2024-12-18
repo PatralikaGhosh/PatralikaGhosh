@@ -1,1 +1,1 @@
-![alt text] (https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.jpg)
+<img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/master/image.png" alt="missing banner">
