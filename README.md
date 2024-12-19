@@ -1,4 +1,4 @@
-<img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
+<img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner" width="800">
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" width="300" height="200" />
