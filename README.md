@@ -1,9 +1,9 @@
 <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
 
 <p align="center">
-  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" width="200" height="200" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" width="400" height="200" />
   <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/coffee.gif" alt="ASCII Art" width="200" height="200" />
-  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" width="200" height="200" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" width="400" height="200" />
 </p>
 
 ## My Skill Set
