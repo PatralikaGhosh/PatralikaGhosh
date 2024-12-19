@@ -2,7 +2,6 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast.gif" alt="Pompo Typing Fast"/>
-  <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/coffee.gif" alt="ASCII Art" />
   <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast_2.gif" alt="Pompo Typing Fast 2"/>
 </div>
 
