@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" width="300" height="200" />
   <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/coffee.gif" alt="ASCII Art" width="200" height="200" />
-  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" width="200" height="300" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" width="300" height="200" />
 </div>
 
 ## My Skill Set
