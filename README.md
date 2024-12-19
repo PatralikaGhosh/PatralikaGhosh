@@ -1,6 +1,6 @@
 <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
-<img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/coffee.gif" alt="missing banner">
-<img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="missing banner">
+<img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/coffee.gif" alt="missing banner" width="300" height="300" />
+<img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="missing banner" width="300" height="300" />
 
 
 ## My Skill Set
