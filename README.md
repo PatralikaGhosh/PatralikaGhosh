@@ -1,10 +1,10 @@
 <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 2%; width: 100%;">
-  <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast.gif" alt="Pompo Typing Fast" style="width: 30%; height: auto;" />
-  <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/coffee.gif" alt="ASCII Art" style="width: 20%; height: auto;" />
-  <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" style="width: 30%; height: auto;" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 2%; flex-wrap: wrap; width: 100%;">
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast.gif" alt="Pompo Typing Fast" style="flex: 1 1 30%; max-width: 30%; height: auto;" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/main/coffee.gif" alt="ASCII Art" style="flex: 1 1 20%; max-width: 20%; height: auto;" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" style="flex: 1 1 30%; max-width: 30%; height: auto;" />
+</div>
 
 ## My Skill Set
 
