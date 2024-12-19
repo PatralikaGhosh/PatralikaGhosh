@@ -1,9 +1,10 @@
 <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast.gif" alt="Pompo Typing Fast"/>
-  <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/main/typing_fast_2.gif" alt="Pompo Typing Fast 2"/>
-</div>
+<p align="center">
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" style="width: 35%; height: auto;" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/coffee.gif" alt="ASCII Art" style="width: 30%; height: auto;" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" style="width: 35%; height: auto;" />
+</p>
 
 ## My Skill Set
 
@@ -39,3 +40,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
