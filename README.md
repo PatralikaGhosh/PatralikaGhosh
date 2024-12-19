@@ -1,9 +1,9 @@
 <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/image.png" alt="missing banner">
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2%; flex-wrap: wrap; width: 100%;">
-  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" style="flex: 1 1 30%; max-width: 30%; height: 200px;" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" style="flex: 1 1 33%; max-width: 30%; height: 200px;" />
   <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/coffee.gif" alt="ASCII Art" style="flex: 1 1 20%; max-width: 20%; height: 200px;" />
-  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" style="flex: 1 1 30%; max-width: 30%; height: 200px;" />
+  <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" style="flex: 1 1 33%; max-width: 30%; height: 200px;" />
 </div>
 
 ## My Skill Set
