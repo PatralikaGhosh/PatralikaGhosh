@@ -31,7 +31,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 </div>
 
-
+<br><br>
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
