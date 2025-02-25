@@ -1,5 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<h2 align="left">About me</h2>
 <p align="center">
   <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast.gif" alt="Pompo Typing Fast" style="flex: 1 1 49%; max-width: 49%; height: 200px;" />
   <img src="https://github.com/PatralikaGhosh/PatralikaGhosh/blob/main/typing_fast_2.gif" alt="Pompo Typing Fast 2" style="flex: 1 1 49%; max-width: 49%; height: 200px;"/>
