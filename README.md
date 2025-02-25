@@ -33,6 +33,8 @@
 
 <img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/output/snake.svg" alt="Snake animation" />
 
+###
+
 <br><br>
 <p align="center"><samp>
 Check out my repos ⬇️  
