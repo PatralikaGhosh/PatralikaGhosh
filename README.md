@@ -31,6 +31,8 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 </div>
 
+<img src="https://raw.githubusercontent.com/PatralikaGhosh/PatralikaGhosh/output/snake.svg" alt="Snake animation" />
+
 <br><br>
 <p align="center"><samp>
 Check out my repos ⬇️  
