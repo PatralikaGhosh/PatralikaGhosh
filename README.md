@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://thecodework.com/wp-content/themes/thecodework/assets/img/technologies/vite.png" height="40" alt="vitejs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="40" alt="vitejs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
